@@ -142,7 +142,7 @@ int		main(int ac, char **av)
 	int i;
 	int j;
 
-	sort(ac, av);
+	change(ac, av);
 	i = 1;
 	while (i < ac)
 	{
